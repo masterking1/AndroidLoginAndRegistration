@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="3061586561534"
+    token="6656356853903708818"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="604467536142"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Android Example Project\AndroidLoginAndRegistration\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1187948383188"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Android Example Project\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="1584158666728"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Android Example Project\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="3061586561534"
+        verifier="COLD_SWAP_REQUESTED" />
+    <build
+        timestamp="1036985269150667"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Android Example Project\AndroidLoginAndRegistration\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
